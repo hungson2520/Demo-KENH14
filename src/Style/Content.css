@@ -1,0 +1,14 @@
+.Content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+  margin-top: 100px;
+  border-top: 3px solid #ff5e34;
+  width: 750px;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
+  justify-items: center;
+  justify-content: center;
+}
+.Content_Post {
+  margin-left: 20px;
+}

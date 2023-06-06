@@ -1,0 +1,7 @@
+.Slider {
+  width: 700px;
+  height: 230px;
+  margin-left: 200px;
+  border: 1px solid grey;
+  border-top: none;
+}
