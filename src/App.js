@@ -14,6 +14,7 @@
 // import ImageAdvertisement from "./Component/ImageAdvertisement";
 import Sport from "./Pages/Sport";
 import Technology from "./Pages/Technology";
+import Youth from "./Pages/Youth";
 import {
   Routes,
   Route,
@@ -30,6 +31,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/sport" element={<Sport />} />
         <Route path="/technology" element={<Technology />} />
+        <Route path="/youth" element={<Youth />} />
         <Route path="*" element={<Notfound />} />
       </Routes>
       {/* <h1
